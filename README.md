@@ -6,6 +6,12 @@
   <a href="https://github.com/simoesusp/Processador-ICMC">ICMC Processor Simulator</a>
 </h3>
 <BR>
+<h3 align="center">MENU</h3>
+<p align="center"> 
+  <h3 align="center"><a href="https://github.com/EduardoWS/Space-Game#getting-started">Getting Started</a></h3>
+  <h3 align="center"><a href="https://github.com/EduardoWS/Space-Game#windows">Download Windows</a></h3>
+  <h3 align="center"><a href="https://github.com/EduardoWS/Space-Game#linux">Download Linux</a></h3>
+<BR>
 <BR>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81593054/207996163-063299bb-0474-4aa2-a094-721d9c5093f4.gif"/>
